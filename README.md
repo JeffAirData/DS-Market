@@ -7,8 +7,9 @@ DSMarket
 
 <p>1 - clean_and_visualization.ipynb</p>
 <p>2 - trend.ipynb</p>
-<p>3 - feature_engineering.ipynb</p>
-<p>4 - models.ipynb</p>
+<p>3 - clustering.ipynb</p>
+<p>4 - feature_engineering.ipynb</p>
+<p>5 - models.ipynb</p>
 
 Final Project Data Science Course Nuclio Digital School
 
